@@ -57,4 +57,24 @@ Set-PoshPrompt -Theme wopian
 
 * close the Terminal and open it again
 
+## Install NodeJs via nvm
+
+`choco install nvm`
+
+`nvm install node`
+
+## Install yarn
+
+`npm install --global yarn`
+
+## Install VsCode
+
+https://code.visualstudio.com/
+
+## Configure VsCode
+
+https://marketplace.visualstudio.com/items?itemName=beeinger.becave-extension-pack
+
+Install this extension for VsCode, read through and follow the instructions
+
 ## Done!
